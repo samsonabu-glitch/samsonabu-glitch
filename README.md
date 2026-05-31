@@ -45,6 +45,3 @@ I keep project details intentionally limited while focusing publicly on the lear
 My goal is to grow into an engineer who can work across both hardware and software: from circuits, microcontrollers, and firmware to secure cloud-connected systems.
 
 Thanks for visiting my profile.
-"""
-
-print(readme)
