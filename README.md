@@ -1,4 +1,4 @@
-readme = """
+
 # Hi, I'm Samson 👋
 
 I'm a Silicon Valley native pursuing a **Bachelor's in Computer Engineering at San José State University**.
